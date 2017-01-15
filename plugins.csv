@@ -1,0 +1,15 @@
+audio_server,Audio Server,Allows the handling of real-time streamed audio data from clients.,https://github.com/edouardpoitras/eva-audio-server.git
+conversations,Conversations,Stores Eva conversation data in MongoDB.,https://github.com/edouardpoitras/eva-conversations.git
+default_tts,Default Text-to-Speech,The default Eva text-to-speech implementation.,https://github.com/edouardpoitras/eva-default-tts.git
+default_voice_recognition,Default Voice Recognition,The default Eva voice recognition implementation.,https://github.com/edouardpoitras/eva-default-voice-recognition.git
+echo,Echo,Repeats everything you send to Eva.,https://github.com/edouardpoitras/eva-echo.git
+google_tts,Google Text-to-Speech,Uses the gTTS python library to generate speech for Eva.,https://github.com/edouardpoitras/eva-google-tts.git
+mongodb_logging,MongoDB Logging,All log messages get saved to MongoDB.,https://github.com/edouardpoitras/eva-mongodb-logging.git
+updater,Updater,Facilitates updating Eva plugins.,https://github.com/edouardpoitras/eva-updater.git
+weather,Weather,Enables the response of weather-related queries from Eva.,https://github.com/edouardpoitras/eva-weather.git
+web_ui,Web UI,Configure and monitor Eva through a web user interface.,https://github.com/edouardpoitras/eva-web-ui.git
+web_ui_conversations,Web UI Conversations,Adds a way of viewing and partaking in conversations with Eva through the Web UI.,https://github.com/edouardpoitras/eva-web-ui-conversations.git
+web_ui_interact,Web UI Interact,Allows your to interact with Eva through the Web UI.,https://github.com/edouardpoitras/eva-web-ui-interact.git
+web_ui_logs,Web UI Logs,Adds a way of viewing logs from the Web UI.,https://github.com/edouardpoitras/eva-web-ui-logs.git
+web_ui_plugins,Web UI Plugins,Adds a way of enabling and disabling plugins through the Web UI.,https://github.com/edouardpoitras/eva-web-ui-plugins.git
+web_ui_updater,Web UI Updater,Adds a way of updating plugins in the Web UI.,https://github.com/edouardpoitras/eva-web-ui-updater.git
