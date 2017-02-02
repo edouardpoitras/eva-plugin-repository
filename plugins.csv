@@ -4,6 +4,7 @@ default_tts,Default Text-to-Speech,The default Eva text-to-speech implementation
 default_voice_recognition,Default Voice Recognition,The default Eva voice recognition implementation.,https://github.com/edouardpoitras/eva-default-voice-recognition.git
 echo,Echo,Repeats everything you send to Eva.,https://github.com/edouardpoitras/eva-echo.git
 google_tts,Google Text-to-Speech,Uses the gTTS python library to generate speech for Eva.,https://github.com/edouardpoitras/eva-google-tts.git
+intent,Intent,Gives plugins access to intent parsing through the context object.,https://github.com/edouardpoitras/eva-intent.git
 mongodb_logging,MongoDB Logging,All log messages get saved to MongoDB.,https://github.com/edouardpoitras/eva-mongodb-logging.git
 updater,Updater,Facilitates updating Eva plugins.,https://github.com/edouardpoitras/eva-updater.git
 weather,Weather,Enables the response of weather-related queries from Eva.,https://github.com/edouardpoitras/eva-weather.git
